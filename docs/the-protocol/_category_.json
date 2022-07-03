@@ -1,0 +1,9 @@
+{
+  "label": "The protocol",
+  "position": 2,
+  "collapsed": false,
+  "link": {
+    "type": "generated-index",
+    "description": "The section dives deep in the functionalities, architecture, technicalities and use-cases of the protocol."
+  }
+}
