@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Membership
+# 👤 Membership
 
 rep3Token is an ERC721 contract where each token is of certain type denoted by `uint8`. 
 
@@ -22,7 +22,7 @@ Every token has a data of type `uint256` associated with it. There are 32 **data
 By default first slot is **level** and second slot is **category** in case of a membership token.
 Other slots are empty and can be used as the community requires.
 
-:::danger Caution
+:::caution Caution
 
 Two memberhships of same level and category combination can be associted with same address.
 

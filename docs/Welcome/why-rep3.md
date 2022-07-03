@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Why rep3?
+# 🤌 Why rep3?
 
 We can all agree that joining a community or contributing to a DAO is not the easiest thing in practice, especially when we consider how easy it is to get on-boarded in web2 organizations and start contributing to them. It is tempting now—in light of this comparison—to concede and say that web2 organizations are superior to web3 organizations—but this would simply be jumping the gun.
 
