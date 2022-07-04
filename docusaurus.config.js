@@ -52,7 +52,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'rep3',
+        title: 'rep3 v1',
         logo: {
           alt: 'rep3 Logo',
           src: 'img/logo_new.jpeg',

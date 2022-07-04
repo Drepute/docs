@@ -2,54 +2,49 @@
 sidebar_position: 1
 ---
 
-# Setting up
+# ⚙️ Setting up
 
-Docusaurus can manage multiple versions of your docs.
+This sections covers the guide to register a community on rep3 via rep3 hub and create memberships
 
-## Create a docs version
+#### Registering the community with approvers
 
-Release a version 1.0 of your project:
+1. Login via metamask
 
-```bash
-npm run docusaurus docs:version 1.0
-```
+![1](./img/setting_up/1.png)
 
-The `docs` folder is copied into `versioned_docs/version-1.0` and `versions.json` is created.
+2. Select the checkbox if the community plans to use payouts as well
 
-Your docs now have 2 versions:
+![2](./img/setting_up/2.png)
 
-- `1.0` at `http://localhost:3000/docs/` for the version 1.0 docs
-- `current` at `http://localhost:3000/docs/next/` for the **upcoming, unreleased docs**
+3. Enter community name and upload community logo
 
-## Add a Version Dropdown
+![3](./img/setting_up/3.png)
 
-To navigate seamlessly across versions, add a version dropdown.
+4. Enter names (or aliases) and addresses of the approvers. Approvers will be able to approve badges for members in a community.
 
-Modify the `docusaurus.config.js` file:
+Approvers can be added or removed at later stages as well.
 
-```js title="docusaurus.config.js"
-module.exports = {
-  themeConfig: {
-    navbar: {
-      items: [
-        // highlight-start
-        {
-          type: 'docsVersionDropdown',
-        },
-        // highlight-end
-      ],
-    },
-  },
-};
-```
+![4](./img/setting_up/4.png)
 
-The docs version dropdown appears in your navbar:
+5. And done. Next up setting up membership badges
 
-![Docs Version Dropdown](./img/docsVersionDropdown.png)
+![5](./img/setting_up/5.png)
 
-## Update an existing version
 
-It is possible to edit versioned docs in their respective folder:
+#### Creating the membership tokens
 
-- `versioned_docs/version-1.0/hello.md` updates `http://localhost:3000/docs/hello`
-- `docs/hello.md` updates `http://localhost:3000/docs/next/hello`
+6. Select the the type of badge you want to create. Here we'll be creating memberships.
+
+![6](./img/setting_up/6.png)
+
+7. Enter the membership names.
+
+![7](./img/setting_up/7.png)
+
+8. Upload the badge images for the memberships.
+
+![8](./img/setting_up/8.png)
+
+9. Done! Next up approving memberships and creating a signed voucher.
+
+![9](./img/setting_up/9.png)
