@@ -62,6 +62,18 @@ Arweave hash of the metadata file location
 Protocol uses Arweave for storing metadata associated with tokens
 
 
+### Addressess
+
+Contract | Address 
+--- | --- 
+Manager | 0xDA6F4387C344f1312439E05E9f9580882abA6958 
+Router | 0xB9Acf5287881160e8CE66b53b507F6350d7a7b1B 
+rep3Singleton | 0xAF61177D94941299140ac94497aDEf3ee28CB774
+upgradeableBeacon | 0x083842b3F6739948D26C152C137929E0D3a906b9  
+
+
+
+
 
 
 
