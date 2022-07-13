@@ -1,24 +1,11 @@
 ---
 sidebar_position: 1
-slug: /
+slug: /docs-meta
 ---
 
-# Introduction
+# Docs 📜
+## What You'll Find Here
 
-## Welcome to rep3 documentation
+The documentation page is designed to introduce rep3 and its products to users and developers of all skill levels. There are three main sections, with each giving a brief overview of the protocol, the tool and the Discord bot respectively.
 
-At the heart, rep3 protocol lets communities manage their members effectively. This is enabled by our membership badges, which is often the first badge issued by communities to their members.
-
-Along with memberships rep3 platform which utilises the protocol helps in streamlining operations for payments and contribution management.
-
-This evolving documentation covers functionalities, architecture, technicalities and use-cases in greater details in the subsequent sections
-
-![rep3](/img/protocol_overview.png)
-
-
-### **Who is this documentation for?**
-
-This documentation is for anybody who 
-
-- wants to use the Rep3 protocol / platform to manage memberships in their community and streamline their operations
-- is interested in inner workings of the rep3 protocol and wants to build on top of the protocol
+Feel free to slide by our [Discord](discord.gg/xK2WXUv3VG) or our [Twitter](https"//twitter.com/rep3gg/") in case of queries or if you'd like to know more!

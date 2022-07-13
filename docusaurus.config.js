@@ -7,12 +7,12 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'rep3',
-  tagline: 'rep3 protocol and hub',
+  tagline: 'rep3 docs',
   url: 'https://docs.rep3.gg',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/Favicon_new.svg',
+  favicon: 'img/logo_new.jpeg',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -59,8 +59,33 @@ const config = {
         },
         items: [
           {
-            href: 'https://github.com/Drepute',
-            label: 'GitHub',
+            href: 'https://rep3.gg/',
+            label: '🌐',
+            position: 'right',
+          },
+          {
+            href: 'https://twitter.com/rep3gg',
+            label: '🐦',
+            position: 'right',
+          },
+          {
+            href: 'https://discord.gg/xK2WXUv3VG',
+            label: '👾',
+            position: 'right',
+          },
+          {
+            href: 'https://rep3.substack.com/',
+            label: '📙',
+            position: 'right',
+          },
+          {
+            href: 'https://github.com/drepute/',
+            label: '💻',
+            position: 'right',
+          },
+          {
+            href: 'https://docs.rep3.gg/',
+            label: '📜',
             position: 'right',
           },
         ],
@@ -78,42 +103,42 @@ const config = {
           //   ],
           // },
           {
-            title: 'Community',
+            title: 'Links',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                href: 'https://rep3.gg/',
+                label: '🌐 Website',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                href: 'https://twitter.com/rep3gg',
+                label: '🐦 Twitter',
               },
               {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                href: 'https://discord.gg/xK2WXUv3VG',
+                label: '👾 Discord',
               },
-            ],
-          },
-          {
-            title: 'More',
-            items: [
-              // {
-              //   label: 'Blog',
-              //   to: '/blog',
-              // },
               {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://rep3.substack.com/',
+                label: '📙 Substack',
+              },
+              {
+                href: 'https://github.com/drepute/',
+                label: '💻 GitHub',
+              },
+              {
+                href: 'https://docs.rep3.gg/',
+                label: '📜 Docs',
               },
             ],
           },
         ],
       },
+
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
     }),
-};
+}
 
 module.exports = config;

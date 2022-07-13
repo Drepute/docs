@@ -1,0 +1,9 @@
+{
+  "label": "Start here 👋",
+  "position": 0,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index",
+    "description": "An introduction to rep3 and our docs."
+  }
+}
