@@ -2,6 +2,6 @@
 sidebar_position: 0
 ---
 
-# FAQ
+# ⏰ Membership Management
 
 Coming soon!

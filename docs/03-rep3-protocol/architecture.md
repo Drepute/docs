@@ -2,12 +2,12 @@
 sidebar_position: 1
 ---
 
-# 📐 Architecture
+# Architecture
 
 ### Contracts
 #### rep3 Proxy
 
-The rep3 proxy contract points to an upgradeable beacon with implementation contract address. This is deployed for every community. 
+The rep3 proxy contract points to an upgradeable beacon with implementation contract address. This is deployed for every community.
 
 #### Implementation singleton
 
