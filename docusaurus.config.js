@@ -57,38 +57,38 @@ const config = {
           alt: 'rep3 Logo',
           src: 'img/logo_new.jpeg',
         },
-        items: [
-          {
-            href: 'https://rep3.gg/',
-            label: '🌐',
-            position: 'right',
-          },
-          {
-            href: 'https://twitter.com/rep3gg',
-            label: '🐦',
-            position: 'right',
-          },
-          {
-            href: 'https://discord.gg/xK2WXUv3VG',
-            label: '👾',
-            position: 'right',
-          },
-          {
-            href: 'https://rep3.substack.com/',
-            label: '📙',
-            position: 'right',
-          },
-          {
-            href: 'https://github.com/drepute/',
-            label: '💻',
-            position: 'right',
-          },
-          {
-            href: 'https://docs.rep3.gg/',
-            label: '📜',
-            position: 'right',
-          },
-        ],
+//        items: [
+//          {
+//            href: 'https://rep3.gg/',
+//            label: '🌐',
+//            position: 'right',
+//          },
+//          {
+//            href: 'https://twitter.com/rep3gg',
+//            label: '🐦',
+//            position: 'right',
+//          },
+//          {
+//            href: 'https://discord.gg/xK2WXUv3VG',
+//            label: '👾',
+//            position: 'right',
+//          },
+//          {
+//            href: 'https://rep3.substack.com/',
+//            label: '📙',
+//            position: 'right',
+//          },
+//          {
+//            href: 'https://github.com/drepute/',
+//            label: '💻',
+//            position: 'right',
+//          },
+//          {
+//            href: 'https://docs.rep3.gg/',
+//            label: '📜',
+//            position: 'right',
+//          },
+//        ],
       },
       footer: {
         style: 'dark',

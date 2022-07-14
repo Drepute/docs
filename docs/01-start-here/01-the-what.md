@@ -1,7 +1,9 @@
 ---
 sidebar_position: 0
 ---
-# The What
+
+
+# 1️⃣ The What
 
 ## What is rep3?!
 

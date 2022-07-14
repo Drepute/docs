@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Architecture
+# 📐 Architecture
 
 ### Contracts
 #### rep3 Proxy

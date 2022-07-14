@@ -2,7 +2,7 @@
 sidebar_position: 4
 ---
 
-# Updating membership
+# ✍️ Updating membership
 
 This sections covers the guide to update membership
 1. Select the member
