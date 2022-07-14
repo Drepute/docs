@@ -2,6 +2,6 @@
 sidebar_position: 0
 ---
 
-# ⏰ Payment and Contribution
+# Payment and Contribution
 
-Coming soon!
+⏰ Coming soon!
