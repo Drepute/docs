@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# 🛄 Claiming membership
+# Claiming membership
 
 After creating the memberships as specified in the previous guide. Community shares a invite link from dashboard for contributor/member onboarding.
 

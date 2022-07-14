@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
 ---
-# 2️⃣ The Why
+# The Why
 
 ## Ok got it. Why is this important?
 

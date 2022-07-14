@@ -1,9 +1,5 @@
 {
-  "label": "DAO Tool 🔧",
+  "label": "🔧 DAO Tool",
   "position": 4,
   "collapsed": true,
-  "link": {
-    "type": "generated-index",
-    "description": "This section briefly covers the features and functions of the DAO tool."
-  }
 }

@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# 3️⃣ The How
+# The How
 
 ## How does rep3 fix this?
 

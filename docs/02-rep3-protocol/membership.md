@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# 💳 Membership
+# Membership
 
 rep3Token is an ERC721 contract where each token is of certain type denoted by `uint8`.
 

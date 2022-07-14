@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# 🎟 Badges
+# Badges
 
 Protocol supports 255 different types of badges. All the badges are bound to membership.
 Most common types of badges
