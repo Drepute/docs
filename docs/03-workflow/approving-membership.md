@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-#  👍 Approving membership
+#  Approving membership
 
 This sections covers the guide to approve memberships on EOAs
 

@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# ⚙️ Setting up
+# Setting Up
 
 This sections covers the guide to register a community on rep3 via rep3 hub and create memberships
 

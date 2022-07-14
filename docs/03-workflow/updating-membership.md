@@ -2,14 +2,14 @@
 sidebar_position: 4
 ---
 
-# 🚀 Updating membership
+# Updating membership
 
 This sections covers the guide to update membership
 1. Select the member
 
 ![1](./img/updating/1.png)
 
-2. Select the upgraded membership 
+2. Select the upgraded membership
 
 ![2](./img/updating/2.png)
 
