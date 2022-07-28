@@ -2,6 +2,8 @@
 sidebar_position: 0
 ---
 
-# Payment and Contribution
+# Quests
 
 ⏰ Coming soon!
+
+Tentative timeline -> 1 week
