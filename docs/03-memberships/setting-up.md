@@ -8,9 +8,10 @@ This sections covers the guide to register a community on rep3 via rep3 hub and 
 
 #### Registering the community with approvers
 
-1. Login via metamask
+1. Login via metamasksdgsdfgdfsgdf
 
-![1](./img/setting_up/1.png)
+![1](./img/setting_up/random.gif)
+![1](./img/setting_up/1.mov)
 
 2. Select the checkbox if the community plans to use payouts as well
 
