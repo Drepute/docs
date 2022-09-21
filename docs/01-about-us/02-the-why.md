@@ -5,8 +5,8 @@ sidebar_position: 1
 
 ## Ok got it. Why is this important?
 
-Contributing to web3 communities isn't the most pleasant experience.
+Contributing to web3 communities could be so much better!
 
-Community and contributor management has a lot of friction. Optimising for the perfect fit among unknown applicants is tough. Contributor compensation is fuzzy, at best, and downright unfair, at worst.
+Presently, community and contributor management has a lot of friction. Optimising for the perfect fit among unknown applicants is tough. Contributor compensation is fuzzy, at best, and downright unfair, at worst.
 
-On the other hand, contributors are not true owners of their reputation. They cannot "take their reputation with them" and unlock opportunities in other communities. Further, they must trust and use third-party applications for these needs.
+On the other hand, contributors are not true owners of their reputation. They cannot leverage their reputation and "take it with them". They must trust and use third-party applications for these needs.
