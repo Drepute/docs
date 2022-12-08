@@ -130,6 +130,7 @@ These endpoints are triggered in the context of users and bade, including gettin
 - community_uuid: <community_uuid> | required if member_token_id is provided | filters badges for the entered community 
 - member_token_id: <token_id> | optional if address is provided
 - type: <badge_type> | optinal | filters badges of a certain type
+- contract_address: <contract_address> | optional | filtersbadges for the community contract address
 
 *example*
 
