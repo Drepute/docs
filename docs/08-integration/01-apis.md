@@ -127,7 +127,6 @@ These endpoints are triggered in the context of users and bade, including gettin
 
 *request params*:
 - address: <eoa_address> | optional if community_uuid and member_token_id is provided
-- community_uuid: <community_uuid> | required if member_token_id is provided | filters badges for the entered community 
 - member_token_id: <token_id> | optional if address is provided
 - type: <badge_type> | optinal | filters badges of a certain type
 - contract_address: <contract_address> | optional | filtersbadges for the community contract address
@@ -136,6 +135,6 @@ These endpoints are triggered in the context of users and bade, including gettin
 
 `GET https://api.rep3.gg/public/badge/user?address=0xhfjdks...&type=1`
 
-`GET https://api.rep3.gg/public/badge/user?community_uuid=hfjdks...&member_token_id=34`
+`GET https://api.rep3.gg/public/badge/user?member_token_id=34&contract_address=0xfhj...`
 
-`GET https://api.rep3.gg/public/badge/user?community_uuid=hfjdks...&address=0xhfjdks...&type=1`
+`GET https://api.rep3.gg/public/badge/user?contract_address=0xfhj...&address=0xhfjdks...&type=1`
