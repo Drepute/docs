@@ -2,8 +2,8 @@
 sidebar_position: 1
 ---
 
-# Setting Up Memberships
-Before we define our membership levels and distribute membership badges, we must setup the community on the rep3 platform. This is pretty straightforward:
+# Onboarding Your Community
+Before we define our membership levels and distribute membership badges, we must onboard your community on the rep3 platform. This is pretty straightforward:
 
 #### 1. Visit the [rep3 webapp](https://app.rep3.gg/) and connect your wallet.
 
