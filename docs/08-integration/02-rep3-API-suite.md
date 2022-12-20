@@ -1,8 +1,8 @@
 ---
-sidebar_position: 1
+sidebar_position: 2
 ---
 
-# APIs
+# rep3 API Suite
 
 rep3 API suite is for projects / ecosystems who would like to use rep3 protocol and rep3 infrastructure from within the tool
 
