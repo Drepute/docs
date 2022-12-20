@@ -17,6 +17,8 @@ After switching to the Settings page, go to the `API Key` tab and toggle the `Ge
 
 ![](../img/API_2.png)
 
+>Note: If you want to use the APIs for minting, upgrading badges. You'll have to enable a bot as well. This will add an approver in the smart contract which will be used to approve badges on your behalf
+
 #### 3. And you're done!
 Copy your API key and start interacting with [rep3's API suite](https://docs.rep3.gg/integration/rep3-API-suite).
 

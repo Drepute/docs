@@ -7,10 +7,14 @@ sidebar_position: 2
 rep3 API suite is for projects / ecosystems who would like to use rep3 protocol and rep3 infrastructure from within the tool
 
 ### Requirements
-rep3 APIs apha is in development. Please reach out to us on [discord](https://discord.gg/xK2WXUv3VG) / [twitter](https://twitter.com/rep3gg) to get your API keys
+To obtain API Key checkout the previous writeup.
 
 ### Security
 APIs are secured over SSL and OAuth standard
+
+To get your <community_uuid> copy the invite link from dashboard. It should look something like `https://app.rep3.gg/contributor/invite/dxfcvb/2fec0fb02e5d...ac243109f69f`
+
+Use `2fec0fb02e5d...ac243109f69f` as your community uuid
 
 
 ### APIs
@@ -27,7 +31,7 @@ These endpoints are triggered in the context of a community, including the types
 
 *headers*: 
 - Content-Type: application/json
-- X-Authentication: <client_secret>
+- Authorization: Bearer <api_key>
 
 *request params*:
 - community_uuid: <community_uuid>
@@ -55,7 +59,7 @@ reponse `200 OK`
 
 *headers*: 
 - Content-Type: application/json
-- X-Authentication: <client_secret>
+- Authorization: Bearer <api_key>
 
 *request params*:
 - community_uuid: <community_uuid>
@@ -76,7 +80,7 @@ response `200 OK`
 
 **Badge Endpoints**
 
-These endpoints are triggered in the context of users and bade, including getting all the badges for a user, memberships etc
+These endpoints are triggered in the context of users and badge, including getting all the badges for a user, memberships etc
 
 **=> `badge/mint`**
 
@@ -86,7 +90,7 @@ These endpoints are triggered in the context of users and bade, including gettin
 
 *headers*: 
 - Content-Type: application/json
-- X-Authentication: <client_secret>
+- Authorization: Bearer <api_key>
 
 *request body*:
 - community_uuid: <community_uuid>
@@ -117,7 +121,7 @@ These endpoints are triggered in the context of users and bade, including gettin
 
 *headers*: 
 - Content-Type: application/json
-- X-Authentication: <client_secret>
+- Authorization: Bearer <api_key>
 
 *url params*:
 - contract_address: <community_contract_address>
@@ -162,7 +166,7 @@ response `200 OK`
 
 *headers*: 
 - Content-Type: application/json
-- X-Authentication: <client_secret>
+- Authorization: Bearer <api_key>
 
 *request params*:
 - address: <eoa_address> | optional if community_uuid and member_token_id is provided
