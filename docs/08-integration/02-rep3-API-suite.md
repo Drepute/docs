@@ -84,7 +84,7 @@ These endpoints are triggered in the context of users and badge, including getti
 
 **=> `badge/mint`**
 
-*Description*: Mint a badge on an address
+*Description*: Mint a badge on an address. **This endpoint is only enabled for direct minting of custom badges. We are actively working on APIs for minting membership badges and will be live very soon**
 
 *Method*: `POST`
 
