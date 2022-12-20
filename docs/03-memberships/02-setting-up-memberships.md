@@ -2,8 +2,8 @@
 sidebar_position: 2
 ---
 
-# Approving Memberships
-Approving memberships is a two-step process. First, we need to add the membership levels and the badge assets, and then we need to distribute these to our members. 
+# Setting Up Memberships
+Setting up memberships is a two-step process. First, we need to add the membership levels and the badge assets, and then we need to distribute these to our members. 
 
 #### 1. Setup membership badges.
 Add the membership levels and upload the badge designs. These could be .jpgs, .pngs and even .gifs, and the levels and assets can be edited later as well.

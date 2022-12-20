@@ -1,5 +1,5 @@
 ---
-sidebar_position: 3
+sidebar_position: 1
 ---
 
 # Snapshot Integration
@@ -13,7 +13,7 @@ In the rep3 platform, we've made it possible to implement contextual governance 
 #### 1. Switch to the `Governance` tab.
 After setting up your badges, switch to the `Governance` tab from the top of the screen.
 
-![](../img/16.gif)
+![](../img/16.gif) 
 
 #### 2. Edit the number of votes per badge.
 Here you can specify the number of votes per badge of a specific tier. In the example below,
