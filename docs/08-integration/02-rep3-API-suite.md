@@ -4,10 +4,10 @@ sidebar_position: 2
 
 # rep3 API Suite
 
-rep3 API suite is for projects / ecosystems who would like to use rep3 protocol and rep3 infrastructure from within the tool
+rep3 API suite is for projects / ecosystems who would like to use rep3 protocol and rep3 infrastructure from within the tool. The API suite is in alpha, we are more than happy to assist you if you face any issues. Reach out to us on [discord](https://discord.gg/xK2WXUv3VG)
 
 ### Requirements
-To obtain API Key checkout the previous writeup.
+To obtain API Key checkout the previous [writeup](https://docs.rep3.gg/integration/retrieving-your-API-key)
 
 ### Security
 APIs are secured over SSL and OAuth standard
@@ -115,7 +115,8 @@ These endpoints are triggered in the context of users and badge, including getti
 
 **=> `badge/<contract_address>/<token_id>`**
 
-*Description*: Get the token details in a community contract
+*Description*: Get the token details in a community contract. 
+**This API is a wrapper over rep3 subgraph and latency directly proportional to the subgraph.**
 
 *Method*: `GET`
 
@@ -154,6 +155,8 @@ response `200 OK`
     }
 }
 ```
+
+>Note: Response is an array as there can be multiple entries of the same `tokenID` if the token is upgraded or downgraded. Keep an eye on `level` and `category`. This is true for the subsequent API calls as well.
 
 ----
 
