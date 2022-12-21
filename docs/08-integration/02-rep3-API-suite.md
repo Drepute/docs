@@ -30,7 +30,7 @@ These endpoints are triggered in the context of a community, including the types
 
 *example*
 
-`GET https://api.rep3.gg/public/community/join`
+`GET https://api.rep3.gg/dao_tool_server/public/community/join`
 
 reponse `200 OK`
 
@@ -56,7 +56,7 @@ reponse `200 OK`
 
 *example*
 
-`GET https://api.rep3.gg/public/community/contract_address`
+`GET https://api.rep3.gg/dao_tool_server/public/community/contract_address`
 
 response `200 OK`
 
@@ -89,7 +89,7 @@ These endpoints are triggered in the context of users and badge, including getti
 - badge_url: <badge_url> | metadata url for the badge
 *example*
 
-`POST https://api.rep3.gg/public/badge/mint`
+`POST https://api.rep3.gg/dao_tool_server/public/badge/mint`
 
 ```json
 {
@@ -117,7 +117,7 @@ These endpoints are triggered in the context of users and badge, including getti
 
 *example*
 
-`GET https://api.rep3.gg/public/badge/0`
+`GET https://api.rep3.gg/dao_tool_server/public/badge/0`
 
 response `200 OK`
 
@@ -165,7 +165,7 @@ response `200 OK`
 
 *example*
 
-`GET https://api.rep3.gg/public/badge/user?address=0xhfjdks...fdsf`
+`GET https://api.rep3.gg/dao_tool_server/public/badge/user?address=0xhfjdks...fdsf`
 
 get all badges of a user in the community
 
@@ -206,7 +206,7 @@ get all badges of a user in the community
 ```
 
 
-`GET https://api.rep3.gg/public/badge/user?member_token_id=34`
+`GET https://api.rep3.gg/dao_tool_server/public/badge/user?member_token_id=34`
 
 get all badges of a user in the community
 
@@ -246,7 +246,7 @@ get all badges of a user in the community
 }
 ```
 
-`GET https://api.rep3.gg/public/badge/user?address=0xhfjdks...&type=0`
+`GET https://api.rep3.gg/dao_tool_server/public/badge/user?address=0xhfjdks...&type=0`
 
 get only membership NFTs of a user in a community. Use type=3/4/5 for other types of badges
 
