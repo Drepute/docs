@@ -62,7 +62,7 @@ const config = {
         },
 //        items: [
 //          {
-//            href: 'https://rep3.gg/',
+//            href: 'https://rep3.gg?utm_source=organic&utm_medium=docs',
 //            label: '🌐',
 //            position: 'right',
 //          },
@@ -77,7 +77,7 @@ const config = {
 //            position: 'right',
 //          },
 //          {
-//            href: 'https://rep3.substack.com/',
+//            href: 'https://blog.rep3.gg',
 //            label: '📙',
 //            position: 'right',
 //          },
@@ -109,7 +109,7 @@ const config = {
             title: 'Links',
             items: [
               {
-                href: 'https://rep3.gg/',
+                href: 'https://rep3.gg?utm_source=organic&utm_medium=docs',
                 label: '🌐 Website',
               },
               {
@@ -121,8 +121,8 @@ const config = {
                 label: '👾 Discord',
               },
               {
-                href: 'https://rep3.substack.com/',
-                label: '📙 Substack',
+                href: 'https://blog.rep3.gg',
+                label: '📙 Blog',
               },
               {
                 href: 'https://github.com/drepute/',
