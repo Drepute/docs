@@ -61,36 +61,30 @@ const config = {
           src: 'img/logo_new.jpeg',
         },
 //        items: [
-//          {
-//            href: 'https://rep3.gg?utm_source=organic&utm_medium=docs',
-//            label: '🌐',
-//            position: 'right',
-//          },
-//          {
-//            href: 'https://twitter.com/rep3gg',
-//            label: '🐦',
-//            position: 'right',
-//          },
-//          {
-//            href: 'https://discord.gg/xK2WXUv3VG',
-//            label: '👾',
-//            position: 'right',
-//          },
-//          {
-//            href: 'https://blog.rep3.gg',
-//            label: '📙',
-//            position: 'right',
-//          },
-//          {
-//            href: 'https://github.com/drepute/',
-//            label: '💻',
-//            position: 'right',
-//          },
-//          {
-//            href: 'https://docs.rep3.gg/',
-//            label: '📜',
-//            position: 'right',
-//          },
+//             {
+//                href: 'https://twitter.com/rep3gg',
+//                label: '🐦 Twitter',
+//             },
+//             {
+//                href: 'https://discord.gg/xK2WXUv3VG',
+//              label: '👾 Discord',
+//             },
+//             {
+//               href: 'https://rep3.gg/?utm_source=nav&utm_medium=docs',
+//               label: '🌐 Website',
+//             },
+//             {
+//              href: 'https://calendly.com/rep3?utm_source=nav&utm_medium=docs',
+//              label: '☎️ Demo',
+//             },
+//             {
+//              href: 'https://github.com/drepute/',
+//              label: '💻 GitHub',
+//             },
+//             {
+//              href: 'https://blog.rep3.gg',
+//              label: '📙 Blog',
+//             },
 //        ],
       },
       footer: {
@@ -109,10 +103,6 @@ const config = {
             title: 'Links',
             items: [
               {
-                href: 'https://rep3.gg?utm_source=organic&utm_medium=docs',
-                label: '🌐 Website',
-              },
-              {
                 href: 'https://twitter.com/rep3gg',
                 label: '🐦 Twitter',
               },
@@ -121,16 +111,20 @@ const config = {
                 label: '👾 Discord',
               },
               {
-                href: 'https://blog.rep3.gg',
-                label: '📙 Blog',
+                href: 'https://rep3.gg/?utm_source=footer&utm_medium=docs',
+                label: '🌐 Website',
+              },
+              {
+                href: 'https://calendly.com/rep3?utm_source=footer&utm_medium=docs',
+                label: '☎️ Demo',
               },
               {
                 href: 'https://github.com/drepute/',
                 label: '💻 GitHub',
               },
               {
-                href: 'https://docs.rep3.gg/',
-                label: '📜 Docs',
+                href: 'https://blog.rep3.gg',
+                label: '📙 Blog',
               },
             ],
           },
