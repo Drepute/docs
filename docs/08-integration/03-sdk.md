@@ -49,7 +49,7 @@ To start, we need to create a new React.js app.
 
 To do so, open your terminal and run the following commands:
 
-"`jsx
+```jsx
 npx create-react-app community-tool
 cd community-tool
 yarn start
@@ -61,7 +61,7 @@ A key dependency of our project is the [Ethers.js](https://docs.ethers.org/v5/ge
 
 Change into a new directory and run the following commands:
 
-"`jsx
+```jsx
 yarn add ethers
 ```
 
@@ -70,7 +70,7 @@ The first order of action is defining a layout. At the least, we need a connect 
 
 To build our connect wallet screen, open `App.js` and paste the following code:
 
-"`jsx
+```jsx
 import "./App.css";
 import ConnectWallet from "./pages/ConnectWallet";
 import { useState } from "react";
@@ -137,7 +137,7 @@ export default App;
 
 To build our community dashboard screen, open `page/ConnectWallet/index.js` and paste the following code:
 
-"`jsx
+```jsx
 import React from "react";
 import styles from "./styles"
 const ConnectWallet = ({ onConnectBtnPress }) => {
@@ -207,13 +207,13 @@ export default ConnectWallet;
 ### 3. Adding the SDK functions
 Run the following command in the directory that stores dependencies.
 
-"`jsx
+```jsx
 yarn add @rep3/rep3-sdk
 ```
 
 Next, open `utils/Rep3SDKFunctions.js`, and paste the following code:
 
-"`jsx
+```jsx
 import Rep3, { Getters } from "@rep3/rep3-sdk";
 
 const configObject = {
@@ -379,7 +379,7 @@ export const getMembershipFromContract = async (contractAddress) => {
 
 Finally, open `pages/CommunityDashboardScreen/index.js` and paste the following code:
 
-"`jsx
+```jsx
 import React, { useState } from "react";
 import {
   claimMembershipVoucher,
